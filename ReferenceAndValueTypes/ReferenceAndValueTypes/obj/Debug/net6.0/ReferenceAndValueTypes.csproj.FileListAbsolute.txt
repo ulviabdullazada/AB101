@@ -1,0 +1,15 @@
+C:\Users\Ülvi\Desktop\AB101\ReferenceAndValueTypes\ReferenceAndValueTypes\bin\Debug\net6.0\ReferenceAndValueTypes.exe
+C:\Users\Ülvi\Desktop\AB101\ReferenceAndValueTypes\ReferenceAndValueTypes\bin\Debug\net6.0\ReferenceAndValueTypes.deps.json
+C:\Users\Ülvi\Desktop\AB101\ReferenceAndValueTypes\ReferenceAndValueTypes\bin\Debug\net6.0\ReferenceAndValueTypes.runtimeconfig.json
+C:\Users\Ülvi\Desktop\AB101\ReferenceAndValueTypes\ReferenceAndValueTypes\bin\Debug\net6.0\ReferenceAndValueTypes.dll
+C:\Users\Ülvi\Desktop\AB101\ReferenceAndValueTypes\ReferenceAndValueTypes\bin\Debug\net6.0\ReferenceAndValueTypes.pdb
+C:\Users\Ülvi\Desktop\AB101\ReferenceAndValueTypes\ReferenceAndValueTypes\obj\Debug\net6.0\ReferenceAndValueTypes.csproj.AssemblyReference.cache
+C:\Users\Ülvi\Desktop\AB101\ReferenceAndValueTypes\ReferenceAndValueTypes\obj\Debug\net6.0\ReferenceAndValueTypes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ülvi\Desktop\AB101\ReferenceAndValueTypes\ReferenceAndValueTypes\obj\Debug\net6.0\ReferenceAndValueTypes.AssemblyInfoInputs.cache
+C:\Users\Ülvi\Desktop\AB101\ReferenceAndValueTypes\ReferenceAndValueTypes\obj\Debug\net6.0\ReferenceAndValueTypes.AssemblyInfo.cs
+C:\Users\Ülvi\Desktop\AB101\ReferenceAndValueTypes\ReferenceAndValueTypes\obj\Debug\net6.0\ReferenceAndValueTypes.csproj.CoreCompileInputs.cache
+C:\Users\Ülvi\Desktop\AB101\ReferenceAndValueTypes\ReferenceAndValueTypes\obj\Debug\net6.0\ReferenceAndValueTypes.dll
+C:\Users\Ülvi\Desktop\AB101\ReferenceAndValueTypes\ReferenceAndValueTypes\obj\Debug\net6.0\refint\ReferenceAndValueTypes.dll
+C:\Users\Ülvi\Desktop\AB101\ReferenceAndValueTypes\ReferenceAndValueTypes\obj\Debug\net6.0\ReferenceAndValueTypes.pdb
+C:\Users\Ülvi\Desktop\AB101\ReferenceAndValueTypes\ReferenceAndValueTypes\obj\Debug\net6.0\ReferenceAndValueTypes.genruntimeconfig.cache
+C:\Users\Ülvi\Desktop\AB101\ReferenceAndValueTypes\ReferenceAndValueTypes\obj\Debug\net6.0\ref\ReferenceAndValueTypes.dll
