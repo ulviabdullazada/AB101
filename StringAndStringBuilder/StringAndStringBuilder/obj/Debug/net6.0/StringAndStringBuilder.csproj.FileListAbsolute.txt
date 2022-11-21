@@ -1,0 +1,15 @@
+C:\Users\Ülvi\Desktop\AB101\StringAndStringBuilder\StringAndStringBuilder\bin\Debug\net6.0\StringAndStringBuilder.exe
+C:\Users\Ülvi\Desktop\AB101\StringAndStringBuilder\StringAndStringBuilder\bin\Debug\net6.0\StringAndStringBuilder.deps.json
+C:\Users\Ülvi\Desktop\AB101\StringAndStringBuilder\StringAndStringBuilder\bin\Debug\net6.0\StringAndStringBuilder.runtimeconfig.json
+C:\Users\Ülvi\Desktop\AB101\StringAndStringBuilder\StringAndStringBuilder\bin\Debug\net6.0\StringAndStringBuilder.dll
+C:\Users\Ülvi\Desktop\AB101\StringAndStringBuilder\StringAndStringBuilder\bin\Debug\net6.0\StringAndStringBuilder.pdb
+C:\Users\Ülvi\Desktop\AB101\StringAndStringBuilder\StringAndStringBuilder\obj\Debug\net6.0\StringAndStringBuilder.csproj.AssemblyReference.cache
+C:\Users\Ülvi\Desktop\AB101\StringAndStringBuilder\StringAndStringBuilder\obj\Debug\net6.0\StringAndStringBuilder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ülvi\Desktop\AB101\StringAndStringBuilder\StringAndStringBuilder\obj\Debug\net6.0\StringAndStringBuilder.AssemblyInfoInputs.cache
+C:\Users\Ülvi\Desktop\AB101\StringAndStringBuilder\StringAndStringBuilder\obj\Debug\net6.0\StringAndStringBuilder.AssemblyInfo.cs
+C:\Users\Ülvi\Desktop\AB101\StringAndStringBuilder\StringAndStringBuilder\obj\Debug\net6.0\StringAndStringBuilder.csproj.CoreCompileInputs.cache
+C:\Users\Ülvi\Desktop\AB101\StringAndStringBuilder\StringAndStringBuilder\obj\Debug\net6.0\StringAndStringBuilder.dll
+C:\Users\Ülvi\Desktop\AB101\StringAndStringBuilder\StringAndStringBuilder\obj\Debug\net6.0\refint\StringAndStringBuilder.dll
+C:\Users\Ülvi\Desktop\AB101\StringAndStringBuilder\StringAndStringBuilder\obj\Debug\net6.0\StringAndStringBuilder.pdb
+C:\Users\Ülvi\Desktop\AB101\StringAndStringBuilder\StringAndStringBuilder\obj\Debug\net6.0\StringAndStringBuilder.genruntimeconfig.cache
+C:\Users\Ülvi\Desktop\AB101\StringAndStringBuilder\StringAndStringBuilder\obj\Debug\net6.0\ref\StringAndStringBuilder.dll
