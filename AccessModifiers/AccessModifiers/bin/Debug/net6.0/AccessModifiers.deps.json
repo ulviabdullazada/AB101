@@ -1,0 +1,16 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "\uD83D\uDC0E/1.0.0": {
+        "runtime": {
+          "\uD83D\uDC0E.dll": {}
+        }
+      }
+    }
+  }
+}
