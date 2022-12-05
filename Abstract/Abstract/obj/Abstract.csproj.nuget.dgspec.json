@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Ülvi\\Desktop\\Abstract\\Abstract\\Abstract.csproj": {}
+    "C:\\Users\\Ülvi\\Desktop\\AB101\\Abstract\\Abstract\\Abstract.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Ülvi\\Desktop\\Abstract\\Abstract\\Abstract.csproj": {
+    "C:\\Users\\Ülvi\\Desktop\\AB101\\Abstract\\Abstract\\Abstract.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Ülvi\\Desktop\\Abstract\\Abstract\\Abstract.csproj",
+        "projectUniqueName": "C:\\Users\\Ülvi\\Desktop\\AB101\\Abstract\\Abstract\\Abstract.csproj",
         "projectName": "Abstract",
-        "projectPath": "C:\\Users\\Ülvi\\Desktop\\Abstract\\Abstract\\Abstract.csproj",
+        "projectPath": "C:\\Users\\Ülvi\\Desktop\\AB101\\Abstract\\Abstract\\Abstract.csproj",
         "packagesPath": "C:\\Users\\Ülvi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Ülvi\\Desktop\\Abstract\\Abstract\\obj\\",
+        "outputPath": "C:\\Users\\Ülvi\\Desktop\\AB101\\Abstract\\Abstract\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Ülvi\\AppData\\Roaming\\NuGet\\NuGet.Config",

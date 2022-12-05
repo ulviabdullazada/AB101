@@ -1,0 +1,15 @@
+C:\Users\Ülvi\Desktop\AB101\SealedStatic\SealedStatic\bin\Debug\net6.0\SealedStatic.exe
+C:\Users\Ülvi\Desktop\AB101\SealedStatic\SealedStatic\bin\Debug\net6.0\SealedStatic.deps.json
+C:\Users\Ülvi\Desktop\AB101\SealedStatic\SealedStatic\bin\Debug\net6.0\SealedStatic.runtimeconfig.json
+C:\Users\Ülvi\Desktop\AB101\SealedStatic\SealedStatic\bin\Debug\net6.0\SealedStatic.dll
+C:\Users\Ülvi\Desktop\AB101\SealedStatic\SealedStatic\bin\Debug\net6.0\SealedStatic.pdb
+C:\Users\Ülvi\Desktop\AB101\SealedStatic\SealedStatic\obj\Debug\net6.0\SealedStatic.csproj.AssemblyReference.cache
+C:\Users\Ülvi\Desktop\AB101\SealedStatic\SealedStatic\obj\Debug\net6.0\SealedStatic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ülvi\Desktop\AB101\SealedStatic\SealedStatic\obj\Debug\net6.0\SealedStatic.AssemblyInfoInputs.cache
+C:\Users\Ülvi\Desktop\AB101\SealedStatic\SealedStatic\obj\Debug\net6.0\SealedStatic.AssemblyInfo.cs
+C:\Users\Ülvi\Desktop\AB101\SealedStatic\SealedStatic\obj\Debug\net6.0\SealedStatic.csproj.CoreCompileInputs.cache
+C:\Users\Ülvi\Desktop\AB101\SealedStatic\SealedStatic\obj\Debug\net6.0\SealedStatic.dll
+C:\Users\Ülvi\Desktop\AB101\SealedStatic\SealedStatic\obj\Debug\net6.0\refint\SealedStatic.dll
+C:\Users\Ülvi\Desktop\AB101\SealedStatic\SealedStatic\obj\Debug\net6.0\SealedStatic.pdb
+C:\Users\Ülvi\Desktop\AB101\SealedStatic\SealedStatic\obj\Debug\net6.0\SealedStatic.genruntimeconfig.cache
+C:\Users\Ülvi\Desktop\AB101\SealedStatic\SealedStatic\obj\Debug\net6.0\ref\SealedStatic.dll

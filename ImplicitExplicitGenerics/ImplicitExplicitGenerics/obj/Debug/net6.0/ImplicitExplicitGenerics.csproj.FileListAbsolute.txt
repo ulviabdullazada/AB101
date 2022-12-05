@@ -1,0 +1,15 @@
+C:\Users\Ülvi\Desktop\AB101\ImplicitExplicitGenerics\ImplicitExplicitGenerics\bin\Debug\net6.0\ImplicitExplicitGenerics.exe
+C:\Users\Ülvi\Desktop\AB101\ImplicitExplicitGenerics\ImplicitExplicitGenerics\bin\Debug\net6.0\ImplicitExplicitGenerics.deps.json
+C:\Users\Ülvi\Desktop\AB101\ImplicitExplicitGenerics\ImplicitExplicitGenerics\bin\Debug\net6.0\ImplicitExplicitGenerics.runtimeconfig.json
+C:\Users\Ülvi\Desktop\AB101\ImplicitExplicitGenerics\ImplicitExplicitGenerics\bin\Debug\net6.0\ImplicitExplicitGenerics.dll
+C:\Users\Ülvi\Desktop\AB101\ImplicitExplicitGenerics\ImplicitExplicitGenerics\bin\Debug\net6.0\ImplicitExplicitGenerics.pdb
+C:\Users\Ülvi\Desktop\AB101\ImplicitExplicitGenerics\ImplicitExplicitGenerics\obj\Debug\net6.0\ImplicitExplicitGenerics.csproj.AssemblyReference.cache
+C:\Users\Ülvi\Desktop\AB101\ImplicitExplicitGenerics\ImplicitExplicitGenerics\obj\Debug\net6.0\ImplicitExplicitGenerics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ülvi\Desktop\AB101\ImplicitExplicitGenerics\ImplicitExplicitGenerics\obj\Debug\net6.0\ImplicitExplicitGenerics.AssemblyInfoInputs.cache
+C:\Users\Ülvi\Desktop\AB101\ImplicitExplicitGenerics\ImplicitExplicitGenerics\obj\Debug\net6.0\ImplicitExplicitGenerics.AssemblyInfo.cs
+C:\Users\Ülvi\Desktop\AB101\ImplicitExplicitGenerics\ImplicitExplicitGenerics\obj\Debug\net6.0\ImplicitExplicitGenerics.csproj.CoreCompileInputs.cache
+C:\Users\Ülvi\Desktop\AB101\ImplicitExplicitGenerics\ImplicitExplicitGenerics\obj\Debug\net6.0\ImplicitExplicitGenerics.dll
+C:\Users\Ülvi\Desktop\AB101\ImplicitExplicitGenerics\ImplicitExplicitGenerics\obj\Debug\net6.0\refint\ImplicitExplicitGenerics.dll
+C:\Users\Ülvi\Desktop\AB101\ImplicitExplicitGenerics\ImplicitExplicitGenerics\obj\Debug\net6.0\ImplicitExplicitGenerics.pdb
+C:\Users\Ülvi\Desktop\AB101\ImplicitExplicitGenerics\ImplicitExplicitGenerics\obj\Debug\net6.0\ImplicitExplicitGenerics.genruntimeconfig.cache
+C:\Users\Ülvi\Desktop\AB101\ImplicitExplicitGenerics\ImplicitExplicitGenerics\obj\Debug\net6.0\ref\ImplicitExplicitGenerics.dll
