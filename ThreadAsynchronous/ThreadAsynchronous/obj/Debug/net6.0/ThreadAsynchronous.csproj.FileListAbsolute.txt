@@ -1,0 +1,15 @@
+C:\Users\Ülvi\Desktop\AB101\ThreadAsynchronous\ThreadAsynchronous\bin\Debug\net6.0\ThreadAsynchronous.exe
+C:\Users\Ülvi\Desktop\AB101\ThreadAsynchronous\ThreadAsynchronous\bin\Debug\net6.0\ThreadAsynchronous.deps.json
+C:\Users\Ülvi\Desktop\AB101\ThreadAsynchronous\ThreadAsynchronous\bin\Debug\net6.0\ThreadAsynchronous.runtimeconfig.json
+C:\Users\Ülvi\Desktop\AB101\ThreadAsynchronous\ThreadAsynchronous\bin\Debug\net6.0\ThreadAsynchronous.dll
+C:\Users\Ülvi\Desktop\AB101\ThreadAsynchronous\ThreadAsynchronous\bin\Debug\net6.0\ThreadAsynchronous.pdb
+C:\Users\Ülvi\Desktop\AB101\ThreadAsynchronous\ThreadAsynchronous\obj\Debug\net6.0\ThreadAsynchronous.csproj.AssemblyReference.cache
+C:\Users\Ülvi\Desktop\AB101\ThreadAsynchronous\ThreadAsynchronous\obj\Debug\net6.0\ThreadAsynchronous.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ülvi\Desktop\AB101\ThreadAsynchronous\ThreadAsynchronous\obj\Debug\net6.0\ThreadAsynchronous.AssemblyInfoInputs.cache
+C:\Users\Ülvi\Desktop\AB101\ThreadAsynchronous\ThreadAsynchronous\obj\Debug\net6.0\ThreadAsynchronous.AssemblyInfo.cs
+C:\Users\Ülvi\Desktop\AB101\ThreadAsynchronous\ThreadAsynchronous\obj\Debug\net6.0\ThreadAsynchronous.csproj.CoreCompileInputs.cache
+C:\Users\Ülvi\Desktop\AB101\ThreadAsynchronous\ThreadAsynchronous\obj\Debug\net6.0\ThreadAsynchronous.dll
+C:\Users\Ülvi\Desktop\AB101\ThreadAsynchronous\ThreadAsynchronous\obj\Debug\net6.0\refint\ThreadAsynchronous.dll
+C:\Users\Ülvi\Desktop\AB101\ThreadAsynchronous\ThreadAsynchronous\obj\Debug\net6.0\ThreadAsynchronous.pdb
+C:\Users\Ülvi\Desktop\AB101\ThreadAsynchronous\ThreadAsynchronous\obj\Debug\net6.0\ThreadAsynchronous.genruntimeconfig.cache
+C:\Users\Ülvi\Desktop\AB101\ThreadAsynchronous\ThreadAsynchronous\obj\Debug\net6.0\ref\ThreadAsynchronous.dll
